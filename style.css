@@ -1,0 +1,75 @@
+body{
+    background-color: #FDEFE5;
+    font-family: 'Lato', sans-serif; 
+    font-size: large;
+}
+h1{
+    color: #a8a29c;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2{
+    color: #a8a29c;
+    text-align: center;
+}
+
+.img-circle{
+    border-radius: 50%;
+    height: 200;
+}
+.Container{
+    margin: 10px auto;
+    width: 700px;
+}
+#Presentation{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px rgba(206, 198, 191, 0.1);
+    text-align: center;
+    padding: 40px;
+    margin: 20px auto;
+    width: 700px;
+}
+#form{
+    line-height: 30px;
+    margin-bottom: 40px;
+}
+
+.card-white{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px rgba(206, 198, 191, 0.1);
+    text-align: center;
+    padding: 15px 40px;
+    margin: 20px auto;
+    width: 700px; 
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.btn-brown{
+    text-decoration: none;
+    background-color: #a8a29c;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+.btn-brown:hover{
+    background-color: #6C5C4F;
+}
+
+ul{
+    display: inline-block;
+}
+#Reseau{
+    text-align: center;
+    height: 40px;
+    width: 50px;
+    margin: 20px;
+}
+#Reseau:hover{
+    opacity: 50%;
+}
